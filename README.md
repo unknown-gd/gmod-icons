@@ -1,2 +1,2 @@
 # Garry's Mod Icons Pack
-Includes all the icons I know, the path starts with `materials/` 
+Includes all icons I know, path starts with `materials/` exclusion `maps`
